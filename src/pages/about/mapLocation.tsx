@@ -1,6 +1,8 @@
 import React from "react";
 import "../../styles/mapLocation.css";
+import Button from "../../components/Button";
 
+// This component displays the map location
 const MapLocation: React.FC<{}> = () => {
   return (
     <div className="map-section">
@@ -25,6 +27,9 @@ const MapLocation: React.FC<{}> = () => {
             <p>
             Not in town? Teams, Meets or Zoom are our second name. Book an appointment today via contact@elewa.ke!
             </p>
+            <div className="btn-shared">
+              <Button />
+            </div>
           </div>
         </div>
       </div>

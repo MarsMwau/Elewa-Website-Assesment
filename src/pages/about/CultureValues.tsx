@@ -5,7 +5,9 @@ import { FiUsers } from "react-icons/fi";
 import { TbTriangleInverted } from "react-icons/tb";
 import { DiOpenshift } from "react-icons/di";
 
+// This component displays the company's culture and values
 const CultureValues: React.FC<{}> = () => {
+ // This is the main container for the culture and values section
   return (
     <div className="culture-values">
         <div className="culture-values-container">

@@ -2,6 +2,7 @@ import React from 'react';
 import '../../styles/aboutIntroduction.css'; 
 import NavBar from '../../components/NavBar';
 
+// This component displays the navigation bar and the introduction section
 const Introduction: React.FC<{}> = () => {
   return (
     <div className="introduction">

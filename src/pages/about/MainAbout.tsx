@@ -7,6 +7,7 @@ import CultureValues from './CultureValues';
 import MapLocation from './mapLocation';
 import History from './History';
 
+// This is the main container for the about section
 const MainAbout: React.FC<{}> = () => {
   return (
     <>

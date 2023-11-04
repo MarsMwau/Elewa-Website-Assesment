@@ -4,6 +4,7 @@ import { BsInfinity } from "react-icons/bs";
 import { FiUsers } from "react-icons/fi";
 import { TfiWorld } from "react-icons/tfi";
 
+// This component displays the mission section
 const Mission: React.FC<{}> = () => {
   return (
     <div className="mission-container">

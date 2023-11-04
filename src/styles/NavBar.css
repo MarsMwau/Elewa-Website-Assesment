@@ -7,13 +7,11 @@
     align-items: center;
     justify-content: space-between;
     position: relative;
-    /* border: 1px solid rgb(218, 32, 32); */
 }
 
 .logo-container {
    font-weight: 700;
    cursor: pointer;
-   /* border: 1px solid rgb(190, 218, 32); */
    width: 50%;
    font-size: 2em;
    margin-left: 80px;
@@ -24,7 +22,6 @@
     display: flex;
     width: 300px;
     justify-content: space-around;
-    /* border: 1px solid rgb(32, 190, 218); */
 }
 
 .nav-pages .nav-item a {
