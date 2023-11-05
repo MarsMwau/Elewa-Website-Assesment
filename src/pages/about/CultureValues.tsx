@@ -1,5 +1,5 @@
 import React from 'react'
-import "../../styles/cultureValues.css";
+import "../../styles/about-css/cultureValues.css";
 import { PiSpiralThin } from "react-icons/pi";
 import { FiUsers } from "react-icons/fi";
 import { TbTriangleInverted } from "react-icons/tb";

@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../styles/aboutIntroduction.css'; 
+import '../../styles/about-css/aboutIntroduction.css'; 
 import NavBar from '../../components/NavBar';
 
 // This component displays the navigation bar and the introduction section

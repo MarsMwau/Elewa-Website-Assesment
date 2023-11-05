@@ -1,5 +1,5 @@
 import React from "react";
-import "../../styles/introInvest.css";
+import "../../styles/invest-css/introInvest.css";
 import NavBar from "../../components/NavBar";
 
 // This component displays the navigation bar and introduction to the Invest page

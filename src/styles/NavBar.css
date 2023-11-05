@@ -12,7 +12,7 @@
 .logo-container {
    font-weight: 700;
    cursor: pointer;
-   width: 50%;
+   width: 40%;
    font-size: 2em;
    margin-left: 80px;
 }
@@ -20,7 +20,7 @@
 .nav-pages {
     margin-right: 80px;
     display: flex;
-    width: 300px;
+    width: 60%;
     justify-content: space-around;
 }
 

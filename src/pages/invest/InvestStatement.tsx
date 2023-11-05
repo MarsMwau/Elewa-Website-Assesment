@@ -1,5 +1,5 @@
 import React from 'react'
-import '../../styles/investStatement.css';
+import '../../styles/invest-css/investStatement.css';
 import Button from '../../components/Button';
 
 // This component displays the section after the key figures section of the Invest page

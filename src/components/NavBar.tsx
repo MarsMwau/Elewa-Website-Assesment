@@ -9,6 +9,10 @@ interface MenuItem {
 const NavBar: React.FC = () => {
   const menuItems: MenuItem[] = [
     {
+      path: '/home',
+      name: 'Home'
+    },
+    {
       path: '/about',
       name: 'About Us'
     },
@@ -19,6 +23,22 @@ const NavBar: React.FC = () => {
     {
       path: '/invest',
       name: 'Invest'
+    },
+    {
+      path: '/venture',
+      name: 'Venture Labs'
+    },
+    {
+      path: '/brands',
+      name: 'Brands'
+    },
+    {
+      path: '/careers',
+      name: 'Careers'
+    },
+    {
+      path: '/contact',
+      name: 'Contact'
     }
   ];
 

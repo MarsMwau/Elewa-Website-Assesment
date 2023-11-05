@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../../styles/history.css";
+import "../../styles/about-css/history.css";
 import historydetails from "./historydetails.json";
 import { FaCircle } from "react-icons/fa";
 import { BsArrowLeftCircle, BsArrowRightCircle } from "react-icons/bs";

@@ -1,5 +1,5 @@
 import React from "react";
-import "../../styles/investGlobal.css";
+import "../../styles/invest-css/investGlobal.css";
 
 // This component displays the section after the introduction section of the Invest page upto the key figures
 const InvestGlobal: React.FC<{}> = () => {

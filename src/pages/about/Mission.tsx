@@ -1,5 +1,5 @@
 import React from "react";
-import "../../styles/mission.css";
+import "../../styles/about-css/mission.css";
 import { BsInfinity } from "react-icons/bs";
 import { FiUsers } from "react-icons/fi";
 import { TfiWorld } from "react-icons/tfi";

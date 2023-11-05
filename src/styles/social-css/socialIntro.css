@@ -1,5 +1,5 @@
-.intro-invest {
-    background-image: url("../assets/background2.jpg");
+.intro-social {
+    background-image: url("https://res.cloudinary.com/dyl3rncv3/image/upload/v1679910469/elewa-group-website/hero-Images/pexels-bg-edit_bb4znx.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -10,7 +10,7 @@
     width: 100%;
 }
 
-.intro-invest-content {
+.intro-social-content {
     width: 60%;
     height: 100%;
     justify-content: center;
@@ -21,13 +21,13 @@
     margin-left: 80px;
 }
 
-.intro-invest-content h3 {
+.intro-social-content h3 {
     font-size: 1.5em;
     margin-bottom: 20px;
     font-weight: 300;
 }
 
-.intro-invest-content h1 {
-    font-size: 3.5em;
+.intro-social-content h1 {
+    font-size: 4em;
     font-weight: 400;
 }

@@ -1,5 +1,5 @@
 import React from "react";
-import "../../styles/mapLocation.css";
+import "../../styles/about-css/mapLocation.css";
 import Button from "../../components/Button";
 
 // This component displays the map location

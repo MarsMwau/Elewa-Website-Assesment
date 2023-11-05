@@ -1,6 +1,6 @@
 // Import React and other necessary libraries
 import React, { useState } from "react";
-import "../../styles/team.css";
+import "../../styles/about-css/team.css";
 import teamDetails from "./teamdetails.json";
 import { BiLogoLinkedin } from "react-icons/bi";
 import { BsArrowRightCircle, BsArrowLeftCircle } from "react-icons/bs";

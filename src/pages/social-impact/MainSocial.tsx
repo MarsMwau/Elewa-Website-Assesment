@@ -1,9 +1,22 @@
 import React from 'react'
+import SocialIntro from './SocialIntro'
+import SocialBusiness from './SocialBusiness'
+import SocialStatements from './SocialStatements'
+import SocialOpen from './SocialOpen'
+import Footer from '../../components/Footer'
+import SocialLast from './SocialLast'
 
-
+// This is the main container for the social impact page
 const MainSocial: React.FC<{}> = () => {
   return (
-    <div>MainSocial</div>
+    <>
+    <SocialIntro />
+    <SocialBusiness />
+    <SocialStatements />
+    <SocialOpen />
+    <SocialLast />
+    <Footer />
+    </>
   )
 }
 
